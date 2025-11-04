@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+    text-decoration: line-through;
+    text-transform: lowercase;
+    text-indent: -50px;
+}
+
+h2{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+
+h3{
+    text-align: center;
+    text-decoration: overline;
+}
+
+p{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table, tr, td{
+    border: 1px solid green;
+}
+
+td{
+    height: 50px;
+    text-align: center;
+    vertical-align:middle;
+    /* padding: 15px; */
+    background-color: green;
+    color: white;
+
+}
+
+table, td{
+    border: 1px solid black;
+}
+
