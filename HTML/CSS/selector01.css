@@ -1,0 +1,19 @@
+ul li{
+    color: green;
+}
+
+div b{
+    color: red;
+}
+
+div>a{
+    color: yellow;
+}
+
+h1+p{
+    color: aqua;
+}
+
+h2~p{
+    color: blue;
+}

@@ -1,0 +1,9 @@
+div{
+    width: 100px;
+    height: 100px;
+    padding: 10px;  /*内边距*/
+    border: 20px solid red; /*边框*/
+    margin: 10px;
+
+    background: green;
+}
